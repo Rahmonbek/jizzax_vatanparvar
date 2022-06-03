@@ -24,8 +24,7 @@ import {HiOutlineLocationMarker,
     import {  MdLanguage} from 'react-icons/md'
 
     import { MdAlternateEmail,} from 'react-icons/md'
-
-    
+import markImg from  './mark.png'
 import http from "./components/ui/Services";
 import { useTranslation } from 'react-i18next';
 
